@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 小宝的网页
 
 You can use the [editor on GitHub](https://github.com/huanhuanlove/kangwebsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
