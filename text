@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>测试</title>
+		<style type="text/css">
+			*{
+				margin: 0;
+				padding: 0;
+			}
+      #id{
+        width:100px;
+        height:100px;
+      }
+		</style>
+	</head>
+	<body>
+		<div id="a">
+      123
+    </div>
+	</body>
+</html>
